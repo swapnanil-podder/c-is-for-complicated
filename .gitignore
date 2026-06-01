@@ -1,0 +1,13 @@
+# Build outputs
+*.o
+*.obj
+*.out
+*.exe
+*.so
+*.dll
+*.dylib
+*.a
+
+# Common local binaries
+/a.out
+/main
